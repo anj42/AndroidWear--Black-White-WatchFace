@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- PRESET VALUES FOR DIMENSIONS -->
+
+<resources>
+    <dimen name="digital_text_size">
+        80dp
+    </dimen>
+
+    <dimen name="digital_text_size_round">
+        80dp
+    </dimen>
+
+</resources>
